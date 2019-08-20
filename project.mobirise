@@ -6723,7 +6723,7 @@
                 "alt": "",
                 "title": "",
                 "customStyle1": "display-7",
-                "caption": "Code: K09\n<br>Size: 60x180cm&nbsp;<br>Price: 120.000VND<br>",
+                "caption": "Code: K08&nbsp;<br>Size: 60x180cm&nbsp;<br>Price: 120.000VND<br>",
                 "active": false
               },
               {
@@ -6736,7 +6736,7 @@
                 "alt": "",
                 "title": "",
                 "customStyle1": "display-7",
-                "caption": "Code: K03\n<br>Size: 60x180 cm<br>Price: 120.000VND&nbsp;<br>",
+                "caption": "Code: K09<br>Size: 60x180 cm<br>Price: 120.000VND&nbsp;<br>",
                 "active": false
               },
               {
@@ -7745,8 +7745,8 @@
                 "videoPreview": "@THEME_PATH@/components/_images/gallery/preview.jpg",
                 "playVideo": false,
                 "videoUrl": "https://www.youtube.com/watch?v=fwkKc6M60-0",
-                "image": "@PROJECT_PATH@/assets/images/62143574-296048024612624-8498062930846154752-n-1-1536x2048.jpg",
-                "thumb": "@PROJECT_PATH@/assets/images/62143574-296048024612624-8498062930846154752-n-1-1536x2048-800x1250.jpg",
+                "image": "@PROJECT_PATH@/assets/images/62143574-296048024612624-8498062930846154752-n-2-1536x2048.jpg",
+                "thumb": "@PROJECT_PATH@/assets/images/62143574-296048024612624-8498062930846154752-n-2-1536x2048-800x800.jpg",
                 "alt": "",
                 "title": "",
                 "customStyle1": "display-7",
@@ -7998,6 +7998,19 @@
                 "title": "",
                 "customStyle1": "display-7",
                 "caption": "Code: Thỏ<br>Size: 29x9cm<br>Price:220.000VND",
+                "active": false
+              },
+              {
+                "tags": "BAGS",
+                "videoPreview": "@THEME_PATH@/components/_images/gallery/preview.jpg",
+                "playVideo": false,
+                "videoUrl": "https://www.youtube.com/watch?v=fwkKc6M60-0",
+                "image": "@PROJECT_PATH@/assets/images/67916029-2362751567323359-2946532983089135616-n-1-576x432.jpg",
+                "thumb": "@PROJECT_PATH@/assets/images/67916029-2362751567323359-2946532983089135616-n-1-576x432-432x432.jpg",
+                "alt": "",
+                "title": "",
+                "customStyle1": "display-7",
+                "caption": "Code: T11<br>Size: 33x30cm<br>Price:220.000VND",
                 "active": true
               }
             ]
